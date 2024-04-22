@@ -730,6 +730,7 @@ ul {
     border-top-left-radius: 0.2rem;
     border-bottom-left-radius: 0.2rem;
     outline: none;
+    color: #03071E;
 }
 
 #footer-form-input:focus,
