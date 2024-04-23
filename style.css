@@ -682,6 +682,7 @@ body{
     .embedded-website div:first-child {
         width: 80%;
         border-radius: 1rem;
+        margin-right: 0rem;
     }
 
     .embedded-website div:last-child {
